@@ -1,6 +1,7 @@
 import React from 'react';
 import Chart from './Chart';
 import Card from './Card';
+import "./pages/styles/Dashboard.css"
 
 const Dashboard = () => {
     return (
